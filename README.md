@@ -9,7 +9,6 @@ A cycle to generate and optimize molecules on many properties for pharmaceutical
 * PyTorch
 * RDKit
 * Scikit-Learn
-* Seaborn
 * Selenium 
 
 # Data
