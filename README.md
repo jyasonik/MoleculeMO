@@ -22,4 +22,3 @@ A text file containing all 500,000 molecules used as training data is provided i
 * Generator.ipynb: generates novel and valid molecules from the LSTM model
 * DataPostprocessing.ipynb: tests generated molecules for validity and pharmacokinetic properties, then selects the most optimal with the nondominated sorting algorithm
 * fineLSTM.ipynb: fine-tunes the LSTM model on the most optimal (selected) molecules from the previous iteration
-* visualization.ipynb: plots molecular properties across iterations of the cycle
